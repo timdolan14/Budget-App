@@ -20,4 +20,4 @@ To review this Site Creation, you can review the notes in each section. Open the
 N/A
 
 ## License
-N/A
+Apache-2.0 license
